@@ -1,13 +1,13 @@
 :root {
-  --blue: #29a7f6;
+  --blue: #1fa2f1;
   --buttonHoverBg: #d4edff;
   --lightGrey: rgb(230, 236, 240);
   --spacing: 15px;
-  --greyText: rgb(86, 105, 120);
+  --greyText: rgb(101, 119, 134);
   --greyButtonText: rgba(0, 0, 0, 0.34);
-  --red: rgb(249, 56, 117);
+  --red: rgb(226, 34, 94);
   --redBackground: rgba(226, 34, 94, 0.1);
-  --green: rgb(27, 214, 111);
+  --green: rgb(23, 191, 99);
   --greenBackground: rgba(23, 191, 99, 0.1);
 }
 

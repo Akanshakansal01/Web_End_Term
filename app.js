@@ -90,6 +90,6 @@ io.on("connection", (socket) => {
   });
 });
 
-server.listen(process.env.PORT||3000, () => {
-  console.log("Server running at port 3000");
+server.listen(process.env.PORT||4000, () => {
+  console.log("Server running at port 4000");
 });
